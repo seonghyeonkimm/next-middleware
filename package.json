@@ -1,0 +1,9 @@
+{
+  "name": "next-middleware",
+  "version": "1.0.0",
+  "description": "next middleware collection",
+  "main": "lib/index.js",
+  "repository": "https://github.com/seonghyeonkimm/next-middleware.git",
+  "author": "seonghyeonkimm",
+  "license": "MIT"
+}
