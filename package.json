@@ -4,6 +4,12 @@
   "description": "next middleware collection",
   "main": "lib/index.js",
   "repository": "https://github.com/seonghyeonkimm/next-middleware.git",
-  "author": "seonghyeonkimm",
-  "license": "MIT"
+  "author": "@seonghyeonkimm",
+  "license": "MIT",
+  "devDependencies": {
+    "next": "^12.1.0"
+  },
+  "peerDependencies": {
+    "next": "^12.1.0"
+  }
 }
