@@ -24,5 +24,10 @@
   },
   "peerDependencies": {
     "next": "^12.1.0"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
