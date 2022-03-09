@@ -1,6 +1,7 @@
 <div align="center">
   <h1>
     <br/>
+      🚀
     <br/>
     next-middleware
     <br />
