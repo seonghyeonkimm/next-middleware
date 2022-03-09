@@ -1,5 +1,5 @@
 {
-  "name": "next-middleware",
+  "name": "@seonghyeonkimm/next-middleware",
   "version": "0.0.0-development",
   "description": "next middleware collection",
   "main": "lib/index.js",
@@ -24,6 +24,9 @@
   },
   "peerDependencies": {
     "next": "^12.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "release": {
     "branches": [
